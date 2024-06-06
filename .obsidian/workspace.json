@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/Host.md",
+                "file": "approximately ended/IP adress.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "full rework/Сеть.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e04b41342ea119d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "full rework/Маршрутизатор (Router).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/Host.md",
+                "file": "approximately ended/IP adress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/Host.md",
+                "file": "approximately ended/IP adress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/Host.md"
+                "file": "approximately ended/IP adress.md"
               }
             }
           }
@@ -175,11 +187,14 @@
   },
   "active": "69cf56c40bd3d83b",
   "lastOpenFiles": [
+    "full rework/Маршрутизатор (Router).md",
+    "approximately ended/Model OSI.md",
+    "full rework/Сеть.md",
+    "approximately ended/IP adress.md",
     "approximately ended/Domain.md",
-    "approximately ended/Host.md",
     "approximately ended/DNS.md",
     "approximately ended/DHCP.md",
-    "full rework/Сеть.md",
+    "approximately ended/Host.md",
     "Содержание.md",
     "full rework/Узел.md",
     "full rework/Server.md",
@@ -198,8 +213,6 @@
     "All",
     "remote blog/freaj123.md",
     "remote blog",
-    "approximately ended/Model OSI.md",
-    "approximately ended/IP adress.md",
     "approximately ended/listening.md",
     "Excalidraw/Drawing 2024-05-21 17.34.56.excalidraw.md",
     "Без названия.canvas",

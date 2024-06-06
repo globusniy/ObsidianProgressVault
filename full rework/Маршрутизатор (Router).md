@@ -1,0 +1,1 @@
+*(Router)* - умеет с ip, и работает с внешними сетями (<mark style="background: #ADCCFFA6;">НЕ LAN</mark>)
