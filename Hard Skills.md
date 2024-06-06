@@ -18,7 +18,7 @@ Linux
 [[Сеть]] 
 1. ~~IP, mac, subnet mask~~
 2. ~~маршрутизация~~
-4. ~~DNS,~~ DHCP
+4. ~~DNS,~~ ~~DHCP~~
 5. SSL, HTTP, http коды ответов
 6. TCP UDP
 
