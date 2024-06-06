@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/DNS.md",
+                "file": "approximately ended/Host.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/DNS.md",
+                "file": "approximately ended/Host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/DNS.md",
+                "file": "approximately ended/Host.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/DNS.md"
+                "file": "approximately ended/Host.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   "active": "69cf56c40bd3d83b",
   "lastOpenFiles": [
     "approximately ended/Domain.md",
+    "approximately ended/Host.md",
     "approximately ended/DNS.md",
     "approximately ended/DHCP.md",
     "full rework/Сеть.md",
@@ -185,7 +186,6 @@
     "in progress/Port.md",
     "in progress/TCP_IP.md",
     "full rework",
-    "approximately ended/Host.md",
     "illustration/Hard Skills.md",
     "proggress",
     "Новая папка",
