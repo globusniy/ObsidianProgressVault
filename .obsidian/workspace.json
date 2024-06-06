@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "full rework/Маршрутизатор (Router).md",
+                "file": "full rework/Маска подсети (subnet mask).md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "full rework/Маска подсети (subnet mask).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "full rework/Маска подсети (subnet mask).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "full rework/Маска подсети (subnet mask).md"
+              }
             }
           }
         ]
@@ -190,14 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "091731574a32ae95",
+  "active": "465fb2ef46eb382f",
   "lastOpenFiles": [
+    "full rework/Маршрутизатор (Router).md",
     "full rework/Маска подсети (subnet mask).md",
     "full rework/NAT (Network Address Translition).md",
     "full rework/Сеть.md",
     "full rework/Subnetmask.md",
     "Hard Skills.md",
-    "full rework/Маршрутизатор (Router).md",
     "full rework/Узел.md",
     "full rework/TCP UDP.md",
     "in progress/TCP_IP.md",
