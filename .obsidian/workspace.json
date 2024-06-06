@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "иллюстрации/Hard Skills.md",
+                "file": "approximately ended/DHCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,12 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Содержание.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "иллюстрации/Hard Skills.md",
+                "file": "Содержание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "иллюстрации/Hard Skills.md",
+                "file": "Содержание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "иллюстрации/Hard Skills.md"
+                "file": "Содержание.md"
               }
             }
           }
@@ -172,17 +173,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d12cc0010682d0fd",
+  "active": "69cf56c40bd3d83b",
   "lastOpenFiles": [
-    "approximately ended/Host.md",
-    "Содержание.md",
+    "approximately ended/DHCP.md",
+    "full rework/Сеть.md",
+    "full rework/Узел.md",
+    "full rework/Server.md",
+    "in progress/Port.md",
     "in progress/TCP_IP.md",
+    "full rework",
+    "approximately ended/Domain.md",
+    "approximately ended/Host.md",
+    "illustration/Hard Skills.md",
+    "Содержание.md",
     "proggress",
     "Новая папка",
     "freakObsidian",
     "All",
     "All/freaoklgajkwp.md",
-    "иллюстрации/Hard Skills.md",
     "All",
     "kawaga/DSC_0035.NEF",
     "All",
@@ -190,24 +198,17 @@
     "remote blog/freaj123.md",
     "remote blog",
     "approximately ended/Model OSI.md",
-    "approximately ended/DHCP.md",
     "approximately ended/DNS.md",
-    "approximately ended/Domain.md",
-    "in progress/Сеть.md",
-    "in progress/Узел.md",
     "approximately ended/IP adress.md",
     "approximately ended/listening.md",
-    "in progress/Port.md",
-    "in progress/Server.md",
-    "in progress",
     "Excalidraw/Drawing 2024-05-21 17.34.56.excalidraw.md",
     "Без названия.canvas",
     "server.md",
     "DNS resolver.md",
-    "иллюстрации/Схема маршрутизации.png",
-    "иллюстрации/Таблица маршрутизации.png",
-    "иллюстрации/msedge_WyxqqkEaKr.png",
-    "иллюстрации/msedge_96V0IBkudE.png",
+    "illustration/Схема маршрутизации.png",
+    "illustration/Таблица маршрутизации.png",
+    "illustration/msedge_WyxqqkEaKr.png",
+    "illustration/msedge_96V0IBkudE.png",
     "Excalidraw/Drawing 2024-05-21 16.42.12.excalidraw.md",
     "Корневые DNS-сервера Самые высокие в иерархии, знают, где искать TLD (Top Level Domain) сервера..md",
     "Domen.md",
