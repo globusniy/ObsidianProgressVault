@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "full rework/LAN.md",
+                "file": "full rework/Маска подсети (subnet mask).md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full rework/LAN.md",
+                "file": "full rework/Маска подсети (subnet mask).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full rework/LAN.md",
+                "file": "full rework/Маска подсети (subnet mask).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "full rework/LAN.md"
+                "file": "full rework/Маска подсети (subnet mask).md"
               }
             }
           }
@@ -208,6 +208,7 @@
   },
   "active": "f44b707393fa499f",
   "lastOpenFiles": [
+    "full rework/LAN.md",
     "full rework/ISP.md",
     "full rework/Маска подсети (subnet mask).md",
     "Без названия",
@@ -225,7 +226,6 @@
     "full rework/Шлюз (Gateway).md",
     "TCP",
     "full rework/Hostname.md",
-    "full rework/LAN.md",
     "full rework/HTTP, FTP, SMTP.md",
     "approximately ended/Host.md",
     "Без названия.canvas",
