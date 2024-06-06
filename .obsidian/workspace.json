@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/Host.md",
+                "file": "Содержание.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69cf56c40bd3d83b",
+            "id": "091731574a32ae95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "full rework/NAT (Network Address Translition).md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "816627083522f68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "approximately ended/DHCP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "Содержание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "Содержание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/IP adress.md"
+                "file": "Содержание.md"
               }
             }
           }
@@ -185,21 +197,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69cf56c40bd3d83b",
+  "active": "465fb2ef46eb382f",
   "lastOpenFiles": [
+    "full rework/NAT (Network Address Translition).md",
+    "approximately ended/DHCP.md",
     "full rework/Маршрутизатор (Router).md",
-    "approximately ended/Model OSI.md",
+    "Содержание.md",
+    "in progress/TCP_IP.md",
+    "in progress/Port.md",
+    "full rework/Узел.md",
     "full rework/Сеть.md",
+    "approximately ended/listening.md",
+    "approximately ended/Model OSI.md",
+    "full rework/Server.md",
     "approximately ended/IP adress.md",
+    "approximately ended/Host.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
-    "approximately ended/DHCP.md",
-    "approximately ended/Host.md",
-    "Содержание.md",
-    "full rework/Узел.md",
-    "full rework/Server.md",
-    "in progress/Port.md",
-    "in progress/TCP_IP.md",
     "full rework",
     "illustration/Hard Skills.md",
     "proggress",
@@ -213,7 +227,6 @@
     "All",
     "remote blog/freaj123.md",
     "remote blog",
-    "approximately ended/listening.md",
     "Excalidraw/Drawing 2024-05-21 17.34.56.excalidraw.md",
     "Без названия.canvas",
     "server.md",
@@ -231,7 +244,6 @@
     "Pasted image 20240518101816.png",
     "Untitled.canvas",
     "Pasted image 20240518101819.png",
-    "Pasted image 20240518101856.png",
-    "Excalidraw/Drawing 2024-05-18 10.21.01.excalidraw.md"
+    "Pasted image 20240518101856.png"
   ]
 }
