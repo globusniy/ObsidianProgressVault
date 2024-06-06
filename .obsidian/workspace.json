@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f44b707393fa499f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "full rework/LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "091731574a32ae95",
             "type": "leaf",
             "state": {
@@ -64,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full rework/Маска подсети (subnet mask).md",
+                "file": "full rework/LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full rework/Маска подсети (subnet mask).md",
+                "file": "full rework/LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "full rework/Маска подсети (subnet mask).md"
+                "file": "full rework/LAN.md"
               }
             }
           }
@@ -193,10 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "465fb2ef46eb382f",
+  "active": "f44b707393fa499f",
   "lastOpenFiles": [
-    "full rework/Маршрутизатор (Router).md",
+    "full rework/ISP.md",
     "full rework/Маска подсети (subnet mask).md",
+    "Без названия",
+    "full rework/Маршрутизатор (Router).md",
     "full rework/NAT (Network Address Translition).md",
     "full rework/Сеть.md",
     "full rework/Subnetmask.md",
@@ -227,10 +242,8 @@
     "Новая папка",
     "freakObsidian",
     "All",
-    "All/freaoklgajkwp.md",
     "All",
     "kawaga/DSC_0035.NEF",
-    "All",
     "All",
     "illustration/Схема маршрутизации.png",
     "illustration/Таблица маршрутизации.png",
