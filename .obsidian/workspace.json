@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "промежуточные устройства в сети/Хаб (hub).md",
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47a783a02546231d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "full rework/ARP RARP protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "промежуточные устройства в сети/Хаб (hub).md",
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "промежуточные устройства в сети/Хаб (hub).md",
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "промежуточные устройства в сети/Хаб (hub).md"
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md"
               }
             }
           }
@@ -168,7 +180,8 @@
   "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
     "промежуточные устройства в сети/Коммутатор (switch).md",
-    "промежуточные устройства в сети/Хаб (hub).md",
+    "промежуточные устройства в сети/Хаб концентратор(hub).md",
+    "full rework/ARP RARP protocol.md",
     "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "промежуточные устройства в сети",
     "Без названия.md",
@@ -177,7 +190,6 @@
     "full rework/Сеть.md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
     "in progress/Model OSI.md",
-    "full rework/ARP RARP protocol.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
     "illustration/msedge_WyxqqkEaKr.png",
