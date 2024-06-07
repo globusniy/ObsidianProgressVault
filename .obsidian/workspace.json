@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "full rework/ARP RARP protocol.md",
+                "file": "Hard Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full rework/ARP RARP protocol.md",
+                "file": "Hard Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full rework/ARP RARP protocol.md",
+                "file": "Hard Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "full rework/ARP RARP protocol.md"
+                "file": "Hard Skills.md"
               }
             }
           }
@@ -199,9 +199,9 @@
   },
   "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
+    "full rework/ARP RARP protocol.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
-    "full rework/ARP RARP protocol.md",
     "full rework/Сеть.md",
     "in progress/Model OSI.md",
     "illustration/msedge_WyxqqkEaKr.png",

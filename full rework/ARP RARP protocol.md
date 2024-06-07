@@ -1,6 +1,7 @@
 *ARP (Address Resolution Protocol)*
 **ARP protocol** - используется для нахождения компьютеров в <mark style="background: #ADCCFFA6;">локальной сети</mark>  преобразования [[IP adress|IP-адресов]] в [[MAC (Media Access Control)|MAC-адреса]]. ^57ecd8
 
+
 **RARP** - делает тоже самое но наоборот по [[MAC (Media Access Control)|MAC адресу]], узнает [[IP adress|IP адрес]]
 Записывается это все в **ARP таблицу**
 ![[msedge_jRnbbdGins.png]]

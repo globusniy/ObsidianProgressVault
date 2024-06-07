@@ -21,6 +21,11 @@ Linux
 4. ~~DNS,~~ ~~DHCP~~
 5. SSL, HTTP, http коды ответов
 6. TCP UDP
+MAC IP TCP UDP ICMP DHCP SSL/TLS HTTP SMTP IMAP(POP3) DNS (Записи, A, TXT, MX)
+
+
+
+
 
 Infractructure as code
 1. Какую проблему решает 
