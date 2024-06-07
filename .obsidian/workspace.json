@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/DHCP.md",
+                "file": "approximately ended/IP adress.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,9 +195,13 @@
   },
   "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
-    "full rework/MAC (Media Access Control).md",
-    "approximately ended/DHCP.md",
+    "illustration/msedge_jRnbbdGins.png",
+    "approximately ended/IP adress.md",
     "full rework/ARP RARP protocol.md",
+    "full rework/Коммутатор (switch).md",
+    "in progress/Model OSI.md",
+    "approximately ended/DHCP.md",
+    "full rework/MAC (Media Access Control).md",
     "approximately ended/Host.md",
     "full rework/Hostname.md",
     "full rework/Шлюз (Gateway).md",
@@ -206,12 +209,9 @@
     "full rework/Узел.md",
     "full rework/Сеть.md",
     "full rework/Маршрутизатор (Router).md",
-    "full rework/Коммутатор (switch).md",
     "approximately ended/listening.md",
-    "approximately ended/IP adress.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
-    "in progress/Model OSI.md",
     "full rework/LLC (Logical Link Control).md",
     "full rework/HTTP, FTP, SMTP.md",
     "full rework/LAN.md",
