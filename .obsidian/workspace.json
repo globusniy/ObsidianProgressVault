@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "435e6c4f9679f606",
+            "id": "5d4f3c72b349fc61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "5d4f3c72b349fc61",
+            "id": "67e85f0174d6940c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "full rework/MAC (Media Access Control).md",
+                "file": "approximately ended/Host.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,10 +193,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "435e6c4f9679f606",
+  "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
     "in progress/Model OSI.md",
     "full rework/MAC (Media Access Control).md",
+    "approximately ended/Host.md",
     "approximately ended/DHCP.md",
     "full rework/LLC (Logical Link Control).md",
     "full rework/ARP protocol.md",
@@ -206,7 +207,6 @@
     "full rework/Маршрутизатор (Router).md",
     "approximately ended/DNS.md",
     "approximately ended/Domain.md",
-    "approximately ended/Host.md",
     "approximately ended/IP adress.md",
     "approximately ended/listening.md",
     "full rework/Узел.md",
