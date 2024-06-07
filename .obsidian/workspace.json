@@ -61,24 +61,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "9cb257dc83a9d1c1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "broadcast",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,11 +127,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "ecc043d47b1be6b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cb257dc83a9d1c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "broadcast",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +165,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9cb257dc83a9d1c1",
+  "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
     "промежуточные устройства в сети/Коммутатор (switch).md",
     "промежуточные устройства в сети/Хаб (hub).md",
