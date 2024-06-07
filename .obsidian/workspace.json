@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/Маска подсети (subnet mask).md",
+                "file": "approximately ended/Маска подсети net mask, subnet mask.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/Маска подсети (subnet mask).md",
+                "file": "approximately ended/Маска подсети net mask, subnet mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/Маска подсети (subnet mask).md",
+                "file": "approximately ended/Маска подсети net mask, subnet mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/Маска подсети (subnet mask).md"
+                "file": "approximately ended/Маска подсети net mask, subnet mask.md"
               }
             }
           }
@@ -229,7 +229,7 @@
     "full rework/Port.md",
     "full rework/Server.md",
     "full rework/TCP UDP.md",
-    "approximately ended/Маска подсети (subnet mask).md",
+    "approximately ended/Маска подсети net mask, subnet mask.md",
     "review"
   ]
 }
