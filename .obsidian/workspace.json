@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "full rework/MAC (Media Access Control).md",
+                "file": "full rework/ARP RARP protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/DHCP.md",
+                "file": "full rework/ARP RARP protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/DHCP.md",
+                "file": "full rework/ARP RARP protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/DHCP.md"
+                "file": "full rework/ARP RARP protocol.md"
               }
             }
           }
@@ -193,11 +194,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "455cf1d57583c9bf",
+  "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
+    "full rework/MAC (Media Access Control).md",
+    "approximately ended/DHCP.md",
     "full rework/ARP RARP protocol.md",
     "approximately ended/Host.md",
-    "full rework/MAC (Media Access Control).md",
     "full rework/Hostname.md",
     "full rework/Шлюз (Gateway).md",
     "full rework/Хаб (hub).md",
@@ -208,7 +210,6 @@
     "approximately ended/listening.md",
     "approximately ended/IP adress.md",
     "approximately ended/Domain.md",
-    "approximately ended/DHCP.md",
     "approximately ended/DNS.md",
     "in progress/Model OSI.md",
     "full rework/LLC (Logical Link Control).md",
