@@ -1,1 +1,0 @@
-**ARP protocol** - используется для нахождения компьютеров в <mark style="background: #ADCCFFA6;">локальной сети</mark> посредством сравнения IP адреса и [[MAC (Media Access Control)|mac]] адреса с помощью *ARP запроса и ARP ответа*

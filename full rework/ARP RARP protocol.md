@@ -1,0 +1,1 @@
+**ARP protocol** - используется для нахождения компьютеров в <mark style="background: #ADCCFFA6;">локальной сети</mark>  преобразования [[IP adress|IP-адресов]] в [[MAC (Media Access Control)|MAC-адреса]].
