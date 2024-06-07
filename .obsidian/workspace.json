@@ -59,12 +59,16 @@
             "id": "762bb66f7adc9168",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "full rework/Сеть.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "full rework/ARP RARP protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "full rework/ARP RARP protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "full rework/ARP RARP protocol.md"
+              }
             }
           }
         ]
@@ -189,25 +197,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "762bb66f7adc9168",
+  "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
+    "approximately ended/Domain.md",
+    "approximately ended/DNS.md",
     "full rework/ARP RARP protocol.md",
+    "full rework/Сеть.md",
+    "in progress/Model OSI.md",
+    "illustration/msedge_WyxqqkEaKr.png",
     "illustration/msedge_jRnbbdGins.png",
+    "illustration/msedge_96V0IBkudE.png",
+    "illustration/Таблица маршрутизации.png",
+    "illustration/Схема маршрутизации.png",
+    "approximately ended/DHCP.md",
+    "full rework/Узел.md",
     "approximately ended/IP adress.md",
     "full rework/Коммутатор (switch).md",
-    "in progress/Model OSI.md",
-    "approximately ended/DHCP.md",
     "full rework/MAC (Media Access Control).md",
     "approximately ended/Host.md",
     "full rework/Hostname.md",
     "full rework/Шлюз (Gateway).md",
     "full rework/Хаб (hub).md",
-    "full rework/Узел.md",
-    "full rework/Сеть.md",
     "full rework/Маршрутизатор (Router).md",
     "approximately ended/listening.md",
-    "approximately ended/Domain.md",
-    "approximately ended/DNS.md",
     "full rework/LLC (Logical Link Control).md",
     "full rework/HTTP, FTP, SMTP.md",
     "full rework/LAN.md",
