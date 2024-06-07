@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "in progress/Model OSI.md",
+                "file": "approximately ended/Маска подсети (subnet mask).md",
                 "mode": "preview",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard Skills.md",
+                "file": "approximately ended/Маска подсети (subnet mask).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard Skills.md",
+                "file": "approximately ended/Маска подсети (subnet mask).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard Skills.md"
+                "file": "approximately ended/Маска подсети (subnet mask).md"
               }
             }
           }
@@ -197,13 +197,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5d4f3c72b349fc61",
+  "active": "1bb44776d8de530e",
   "lastOpenFiles": [
+    "in progress/Model OSI.md",
+    "Hard Skills.md",
+    "approximately ended/IP adress.md",
+    "full rework/Сеть.md",
     "full rework/ARP RARP protocol.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
-    "full rework/Сеть.md",
-    "in progress/Model OSI.md",
     "illustration/msedge_WyxqqkEaKr.png",
     "illustration/msedge_jRnbbdGins.png",
     "illustration/msedge_96V0IBkudE.png",
@@ -211,7 +213,6 @@
     "illustration/Схема маршрутизации.png",
     "approximately ended/DHCP.md",
     "full rework/Узел.md",
-    "approximately ended/IP adress.md",
     "full rework/Коммутатор (switch).md",
     "full rework/MAC (Media Access Control).md",
     "approximately ended/Host.md",
@@ -228,7 +229,7 @@
     "full rework/Port.md",
     "full rework/Server.md",
     "full rework/TCP UDP.md",
-    "review/Маска подсети (subnet mask).md",
+    "approximately ended/Маска подсети (subnet mask).md",
     "review"
   ]
 }
