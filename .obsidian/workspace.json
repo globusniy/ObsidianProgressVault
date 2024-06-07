@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9969e54249096c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "in progress/Model OSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md"
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md"
               }
             }
           }
@@ -150,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "broadcast",
+                "query": "osi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,17 +191,19 @@
   },
   "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
+    "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "промежуточные устройства в сети/Коммутатор (switch).md",
     "промежуточные устройства в сети/Хаб концентратор(hub).md",
+    "промежуточные устройства в сети/Шлюз (Gateway).md",
+    "full rework/WAN.md",
+    "in progress/Model OSI.md",
     "full rework/ARP RARP protocol.md",
-    "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "промежуточные устройства в сети",
     "Без названия.md",
     "Hard Skills.md",
     "approximately ended/IP adress.md",
     "full rework/Сеть.md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
-    "in progress/Model OSI.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
     "illustration/msedge_WyxqqkEaKr.png",
@@ -202,7 +216,6 @@
     "full rework/MAC (Media Access Control).md",
     "approximately ended/Host.md",
     "full rework/Hostname.md",
-    "промежуточные устройства в сети/Шлюз (Gateway).md",
     "approximately ended/listening.md",
     "full rework/LLC (Logical Link Control).md",
     "full rework/HTTP, FTP, SMTP.md",
