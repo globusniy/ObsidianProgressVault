@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "full rework/Коммутатор (switch).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b077ffb39fd19ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "approximately ended/Model OSI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "хаб",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "approximately ended/Model OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "approximately ended/Model OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/IP adress.md"
+                "file": "approximately ended/Model OSI.md"
               }
             }
           }
@@ -148,11 +162,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8559194ff52748d1",
+  "active": "7b077ffb39fd19ea",
   "lastOpenFiles": [
-    "approximately ended/Host.md",
-    "approximately ended/Domain.md",
+    "full rework/Хаб (hub).md",
+    "full rework/Коммутатор (switch).md",
+    "full rework/Сеть.md",
+    "full rework/Маршрутизатор (Router).md",
+    "approximately ended/DHCP.md",
     "approximately ended/DNS.md",
-    "approximately ended/DHCP.md"
+    "approximately ended/Domain.md",
+    "approximately ended/Host.md",
+    "approximately ended/IP adress.md",
+    "approximately ended/listening.md",
+    "approximately ended/Model OSI.md",
+    "full rework/Узел.md",
+    "full rework/ARP protocol.md",
+    "full rework/Шлюз (Gateway).md",
+    "full rework/Hostname.md",
+    "full rework/HTTP, FTP, SMTP.md",
+    "full rework/LAN.md",
+    "full rework/ISP.md",
+    "full rework/MAC address.md",
+    "full rework/NAT (Network Address Translition).md",
+    "full rework/Port.md",
+    "full rework/Server.md",
+    "full rework/TCP UDP.md",
+    "review/Маска подсети (subnet mask).md",
+    "review"
   ]
 }
