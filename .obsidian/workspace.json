@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "промежуточные устройства в сети/Шлюз (Gateway).md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "промежуточные устройства в сети/Шлюз (Gateway).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "промежуточные устройства в сети/Шлюз (Gateway).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md"
+                "file": "промежуточные устройства в сети/Шлюз (Gateway).md"
               }
             }
           }
@@ -192,11 +192,12 @@
   },
   "active": "38939593e16ce8ad",
   "lastOpenFiles": [
-    "full rework/Таблица маршрутизации.md",
-    "full rework/Сеть.md",
+    "промежуточные устройства в сети/Хаб концентратор(hub).md",
     "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "промежуточные устройства в сети/Коммутатор (switch).md",
-    "промежуточные устройства в сети/Хаб концентратор(hub).md",
+    "промежуточные устройства в сети/Шлюз (Gateway).md",
+    "full rework/Таблица маршрутизации.md",
+    "full rework/Сеть.md",
     "in progress/ARP RARP protocol.md",
     "full rework/WAN.md",
     "full rework/Port.md",
@@ -205,7 +206,6 @@
     "full rework/NAT (Network Address Translition).md",
     "approximately ended/MAC (Media Access Control).md",
     "in progress/Model OSI.md",
-    "промежуточные устройства в сети/Шлюз (Gateway).md",
     "промежуточные устройства в сети",
     "Hard Skills.md",
     "approximately ended/IP adress.md",
