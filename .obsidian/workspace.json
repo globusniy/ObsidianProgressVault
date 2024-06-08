@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b68ee275c6de51ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "762bb66f7adc9168",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full rework/Таблица маршрутизации.md",
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full rework/Таблица маршрутизации.md",
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "full rework/Таблица маршрутизации.md"
+                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md"
               }
             }
           }
@@ -189,17 +202,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1bb44776d8de530e",
+  "active": "b68ee275c6de51ce",
   "lastOpenFiles": [
-    "промежуточные устройства в сети/Коммутатор (switch).md",
+    "in progress/Model OSI.md",
+    "full rework/Сеть.md",
+    "in progress/ARP RARP protocol.md",
     "full rework/Таблица маршрутизации.md",
+    "промежуточные устройства в сети/Коммутатор (switch).md",
     "промежуточные устройства в сети/Таблица маршрутизации",
     "промежуточные устройства в сети/Шлюз (Gateway).md",
-    "in progress/Model OSI.md",
     "промежуточные устройства в сети/Маршрутизатор (Router).md",
-    "full rework/Сеть.md",
     "промежуточные устройства в сети/Хаб концентратор(hub).md",
-    "in progress/ARP RARP protocol.md",
     "full rework/WAN.md",
     "full rework/Port.md",
     "full rework/Server.md",
