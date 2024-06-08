@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9969e54249096c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "full rework/TCP UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47a783a02546231d",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +177,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9969e54249096c29",
+  "active": "1bb44776d8de530e",
   "lastOpenFiles": [
     "full rework/WAN.md",
     "full rework/Port.md",
