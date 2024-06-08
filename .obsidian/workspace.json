@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "full rework/Таблица маршрутизации.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "full rework/Таблица маршрутизации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md",
+                "file": "full rework/Таблица маршрутизации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "промежуточные устройства в сети/Маршрутизатор (Router).md"
+                "file": "full rework/Таблица маршрутизации.md"
               }
             }
           }
@@ -204,6 +204,7 @@
   },
   "active": "b68ee275c6de51ce",
   "lastOpenFiles": [
+    "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "in progress/Model OSI.md",
     "full rework/Сеть.md",
     "in progress/ARP RARP protocol.md",
@@ -211,7 +212,6 @@
     "промежуточные устройства в сети/Коммутатор (switch).md",
     "промежуточные устройства в сети/Таблица маршрутизации",
     "промежуточные устройства в сети/Шлюз (Gateway).md",
-    "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "промежуточные устройства в сети/Хаб концентратор(hub).md",
     "full rework/WAN.md",
     "full rework/Port.md",
