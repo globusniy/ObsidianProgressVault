@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/DNS.md",
+                "file": "approximately ended/IP adress.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/DNS.md",
+                "file": "approximately ended/IP adress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/DNS.md",
+                "file": "approximately ended/IP adress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/DNS.md"
+                "file": "approximately ended/IP adress.md"
               }
             }
           }
@@ -204,36 +204,36 @@
   },
   "active": "762bb66f7adc9168",
   "lastOpenFiles": [
+    "full rework/NAT (Network Address Translition).md",
+    "approximately ended/IP adress.md",
+    "approximately ended/Host.md",
+    "full rework/Server.md",
+    "full rework/Таблица маршрутизации.md",
+    "approximately ended/Domain.md",
+    "approximately ended/DNS.md",
     "approximately ended/DHCP.md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
     "full rework/Сеть.md",
     "промежуточные устройства в сети/Шлюз (Gateway).md",
     "Содержание.md",
-    "full rework/Таблица маршрутизации.md",
     "in progress/ARP RARP protocol.md",
     "промежуточные устройства в сети/Коммутатор (switch).md",
-    "approximately ended/DNS.md",
     "промежуточные устройства в сети/Хаб концентратор(hub).md",
     "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "in progress/Model OSI.md",
     "промежуточные устройства в сети/Таблица маршрутизации",
     "full rework/WAN.md",
     "full rework/Port.md",
-    "full rework/Server.md",
     "full rework/LLC (Logical Link Control).md",
-    "full rework/NAT (Network Address Translition).md",
     "approximately ended/MAC (Media Access Control).md",
     "промежуточные устройства в сети",
     "Hard Skills.md",
-    "approximately ended/IP adress.md",
-    "approximately ended/Domain.md",
     "illustration/msedge_WyxqqkEaKr.png",
     "illustration/msedge_jRnbbdGins.png",
     "illustration/msedge_96V0IBkudE.png",
     "illustration/Таблица маршрутизации.png",
     "illustration/Схема маршрутизации.png",
     "full rework/Узел.md",
-    "approximately ended/Host.md",
     "full rework/Hostname.md",
     "approximately ended/listening.md",
     "full rework/HTTP, FTP, SMTP.md",
