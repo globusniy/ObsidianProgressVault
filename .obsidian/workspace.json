@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "full rework/NAT (Network Address Translition).md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "full rework/NAT (Network Address Translition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/IP adress.md",
+                "file": "full rework/NAT (Network Address Translition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/IP adress.md"
+                "file": "full rework/NAT (Network Address Translition).md"
               }
             }
           }
@@ -204,8 +204,10 @@
   },
   "active": "762bb66f7adc9168",
   "lastOpenFiles": [
-    "full rework/NAT (Network Address Translition).md",
+    "approximately ended/MAC (Media Access Control).md",
+    "approximately ended/listening.md",
     "approximately ended/IP adress.md",
+    "full rework/NAT (Network Address Translition).md",
     "approximately ended/Host.md",
     "full rework/Server.md",
     "full rework/Таблица маршрутизации.md",
@@ -225,7 +227,6 @@
     "full rework/WAN.md",
     "full rework/Port.md",
     "full rework/LLC (Logical Link Control).md",
-    "approximately ended/MAC (Media Access Control).md",
     "промежуточные устройства в сети",
     "Hard Skills.md",
     "illustration/msedge_WyxqqkEaKr.png",
@@ -235,7 +236,6 @@
     "illustration/Схема маршрутизации.png",
     "full rework/Узел.md",
     "full rework/Hostname.md",
-    "approximately ended/listening.md",
     "full rework/HTTP, FTP, SMTP.md",
     "review"
   ]
