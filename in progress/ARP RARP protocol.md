@@ -8,6 +8,5 @@
 Все это происходит посредством **ARP запроса** и **ARP ответа**
 
 
-
 Записи [[#^57ecd8|ARP-таблицы]] бывают двух вид видов:<mark style="background: #FFB8EBA6;"> статические</mark> и <mark style="background: #BBFABBA6;">динамические</mark> 
 <mark style="background: #FFB8EBA6;">Статические</mark> добавляются самим пользователем, <mark style="background: #BBFABBA6;">динамические</mark> же – создаются и удаляются автоматически.
