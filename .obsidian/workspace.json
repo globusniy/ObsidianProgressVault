@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50f94de29dcca785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/SystemCTL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "91cf2268afbf607a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Уровни  загрузки.md",
+                "file": "linux/SystemCTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,10 +160,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "50f94de29dcca785",
+  "active": "91cf2268afbf607a",
   "lastOpenFiles": [
-    "linux/Уровни  загрузки.md",
+    "Hard Skills.md",
     "linux/SystemCTL.md",
-    "Hard Skills.md"
+    "linux/Уровни  загрузки.md"
   ]
 }
