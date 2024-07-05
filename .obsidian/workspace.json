@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "промежуточные устройства в сети/Коммутатор (switch).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a783a02546231d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "in progress/ARP RARP protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b68ee275c6de51ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "full rework/Таблица маршрутизации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "762bb66f7adc9168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "full rework/NAT (Network Address Translition).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38939593e16ce8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "промежуточные устройства в сети/Шлюз (Gateway).md",
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full rework/NAT (Network Address Translition).md",
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full rework/NAT (Network Address Translition).md",
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "full rework/NAT (Network Address Translition).md"
+                "file": "промежуточные устройства в сети/Хаб концентратор(hub).md"
               }
             }
           }
@@ -202,26 +153,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7b1e8e7f7cc1413e",
+  "active": "5d4f3c72b349fc61",
   "lastOpenFiles": [
+    "промежуточные устройства в сети/Шлюз (Gateway).md",
+    "промежуточные устройства в сети/Хаб концентратор(hub).md",
+    "промежуточные устройства в сети/Маршрутизатор (Router).md",
+    "промежуточные устройства в сети/Коммутатор (switch).md",
+    "in progress/ARP RARP protocol.md",
+    "full rework/Таблица маршрутизации.md",
+    "full rework/NAT (Network Address Translition).md",
     "approximately ended/MAC (Media Access Control).md",
     "approximately ended/listening.md",
     "approximately ended/IP adress.md",
-    "full rework/NAT (Network Address Translition).md",
     "approximately ended/Host.md",
     "full rework/Server.md",
-    "full rework/Таблица маршрутизации.md",
     "approximately ended/Domain.md",
     "approximately ended/DNS.md",
     "approximately ended/DHCP.md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
     "full rework/Сеть.md",
-    "промежуточные устройства в сети/Шлюз (Gateway).md",
     "Содержание.md",
-    "in progress/ARP RARP protocol.md",
-    "промежуточные устройства в сети/Коммутатор (switch).md",
-    "промежуточные устройства в сети/Хаб концентратор(hub).md",
-    "промежуточные устройства в сети/Маршрутизатор (Router).md",
     "in progress/Model OSI.md",
     "промежуточные устройства в сети/Таблица маршрутизации",
     "full rework/WAN.md",
