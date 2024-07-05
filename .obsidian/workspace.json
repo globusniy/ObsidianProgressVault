@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0e47d8837c8389d6",
+            "id": "e6f08f437f14df14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Уровни  загрузки.md",
+                "file": "linux/SystemCTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Уровни  загрузки.md",
+                "file": "linux/SystemCTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Уровни  загрузки.md",
+                "file": "linux/SystemCTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Уровни  загрузки.md"
+                "file": "linux/SystemCTL.md"
               }
             }
           }
@@ -166,10 +166,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0e47d8837c8389d6",
+  "active": "e6f08f437f14df14",
   "lastOpenFiles": [
-    "Hard Skills.md",
+    "linux/SystemCTL.md",
     "linux/Уровни  загрузки.md",
+    "Hard Skills.md",
     "illustration/msedge_ZojmbAUaYf.png",
     "approximately ended/IP adress.md",
     "approximately ended/Host.md",
