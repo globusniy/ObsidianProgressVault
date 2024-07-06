@@ -43,15 +43,34 @@ Output● nginx.service - A high performance web server and a reverse proxy serv
 Jan 27 19:41:23 desktop systemd[1]: Starting A high performance web server and a reverse proxy server...
 Jan 27 19:41:23 desktop systemd[1]: Started A high performance web server and a reverse proxy server.
 ````
-- Так же можно проверить определенные статусы, например чтобы проверить активен ли (работает ли) модуль в данный момент можно использовать команду `is-active` `systemctl is-active application.service` Это вернет текущий статус модуля, который обычно `active` или `inactive`. Код выхода будет «0», если он активен, и результат будет проще парсить в скрипты оболочки.
+- Так же можно проверить определенные статусы, например чтобы проверить активен ли (работает ли) модуль в данный момент можно использовать команду `is-active` `systemctl is-active имя_службы.service` Это вернет текущий статус модуля, который обычно `active` или `inactive`. 
 - Чтобы увидеть, включен ли модуль, можно использовать команду `is-enabled` 
-- `systemctl is-enabled application.service`
+`systemctl is-enabled имя_службы.service`
 Это выведет информацию о том, что служба `enabled` или `disabled`, и снова установит код выхода на «0» или «1» в зависимости от вопроса команды.
 
+Третья проверка заключается в проверке того, находится ли модуль в состоянии сбоя. Это означает, что была проблема, которая запустила данный модуль 
+`systemctl is-failed имя_службы.service`
+Это вернет `active`, если он работает должным образом, или `failed`, если возникла ошибка. Если модуль был намеренно остановлен, может вернуться `unknown` или `inactive`.
 
+# Обзор состояния системы
 
-9)
+1) Список всех юнитов `systemctl list-units`
+Результат будет выглядеть примерно так:
+````
+OutputUNIT                                LOAD   ACTIVE SUB     DESCRIPTION
+atd.service                               loaded active running ATD daemon
+avahi-daemon.service                      loaded active running Avahi mDNS/DNS-SD Stack
+dbus.service                              loaded active running D-Bus System Message Bus
+dcron.service                             loaded active running Periodic Command Scheduler
+dkms.service                              loaded active exited  Dynamic Kernel Modules System
+getty@tty1.service                        loaded active running Getty on tty1
+. . .
+````
 
+Вывод содержит следующие столбцы:
 
-
-10) Список всех юнитов `systemctl list-units`
+- **UNIT**: имя модуля `systemd`
+- **LOAD**: указывает на то, парсила ли `systemd` конфигурацию модуля. Конфигурация загруженных модулей сохраняется в памяти.
+- **ACTIVE**: краткое состояние активности модуля. Обычно это довольно стандартный способ сообщить, запущен модуль или нет.
+- **SUB**: это состояние более низкого уровня, которое указывает более подробную информацию о модуле. Это часто зависит от типа модуля, состояния и фактического метода работы модуля.
+- **DESCRIPTION**: краткое текстовое описание того, чем является модуль/что делает.
