@@ -76,7 +76,44 @@ getty@tty1.service                        loaded active running Getty on tty1
 - **DESCRIPTION**: краткое текстовое описание того, чем является модуль/что делает.
 
 Например, чтобы увидеть все модули, которые загрузила система `systemd` (или пыталась загрузить), независимо от их активности в данный момент, можно использовать следующий флаг `--all` `systemctl list-units --all` 
-также можно отфильтровать вывод этой команды флагом `--state=` и после равно без пробела указывается состояние которое мы хотим увидеть LOAD, ACTIVE, SUB
+также можно отфильтровать вывод этой команды флагом `--state=` и после равно без пробела указывается состояние которое мы хотим увидеть LOAD, ACTIVE, SUB ()
 `systemctl list-units --all --state=inactive`
+Ответ будет таким:
+```
+$ systemctl list-units --all --state=inactive
+  UNIT                               LOAD      ACTIVE   SUB      DESCRIPTION
+  apache2.service                    loaded    inactive dead     The Apache HTTP Server
+  systemd-fsckd.service              loaded    inactive dead     File System Check Daemon
+  systemd-readahead-collect.service  loaded    inactive dead     Collect Read-Ahead Data
+  systemd-readahead-replay.service   loaded    inactive dead     Replay Read-Ahead Data
+  udisks.service                     loaded    inactive dead     Storage Daemon
+  upower.service                     loaded    inactive dead     Daemon for power management
+  ...
+
+LOAD   = Reflects whether the unit definition was properly loaded.
+ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
+SUB    = The low-level unit activation state, values depend on unit type.
+```
+
+Другим распространенным фильтром является `--type=` так можно отсортировать только интересующего нас типа `systemctl list-units --type=service` 
+Вывод будет таким:
+```
+systemctl list-units --type=service
+UNIT                             LOAD   ACTIVE SUB     DESCRIPTION
+dbus.service                     loaded active running D-Bus System Message Bus
+getty@tty1.service               loaded active running Getty on tty1
+network.service                  loaded active running Network Service
+sshd.service                     loaded active running OpenSSH Daemon
+systemd-journald.service         loaded active running Journal Service
+systemd-logind.service           loaded active running Login Service
+systemd-networkd.service         loaded active running Network Service
+systemd-resolved.service         loaded active running Network Name Resolution
+systemd-timesyncd.service        loaded active running Network Time Synchronization
+udisks2.service                  loaded active running Disk Manager
+...
+LOAD   = Reflects whether the unit definition was properly loaded.
+ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
+SUB    = The low-level unit activation state, values depend on unit type.
+```
 
 2) 
