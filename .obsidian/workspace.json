@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "linux/SystemCTL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/SystemCTL.md",
+                "file": "Hard Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/SystemCTL.md",
+                "file": "Hard Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/SystemCTL.md"
+                "file": "Hard Skills.md"
               }
             }
           }
@@ -160,10 +161,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "91cf2268afbf607a",
+  "active": "9c038829998193bb",
   "lastOpenFiles": [
-    "Hard Skills.md",
+    "approximately ended/Маска подсети net mask, subnet mask.md",
+    "approximately ended/DHCP.md",
+    "промежуточные устройства в сети/Шлюз (Gateway).md",
+    "промежуточные устройства в сети/Хаб концентратор(hub).md",
+    "промежуточные устройства в сети/Маршрутизатор (Router).md",
+    "промежуточные устройства в сети/Коммутатор (switch).md",
     "linux/SystemCTL.md",
+    "Hard Skills.md",
     "linux/Уровни  загрузки.md"
   ]
 }
