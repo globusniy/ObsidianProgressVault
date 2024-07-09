@@ -159,7 +159,7 @@ ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
 SUB    = The low-level unit activation state, values depend on unit type.
 ```
 
-### Список всех файлов модулей
+## Список всех файлов модулей
 Чтобы увидеть _все_ доступные файлы модулей в путях `systemd`, включая те, что система `systemd` пыталась загрузить, можно использовать команду `list-unit-files`: 
 `systemctl list-unit-files` 
 
@@ -191,3 +191,38 @@ systemd-journald.service              static
 ### masked
 
 - **Описание**: Юнит замаскирован. Это значит, что он не может быть запущен ни вручную, ни автоматически.
+
+## Отображение файла модуля
+Чтобы отобразить файл модуля, который система `systemd` загрузила в систему, можно использовать команду `cat`
+`systemctl cat atd.service`
+```
+Output[Unit]
+Description=ATD daemon
+[Service]
+Type=forking
+ExecStart=/usr/bin/atd
+[Install]
+WantedBy=multi-user.target
+```
+Вывод — это файл модуля, известный выполняемому в настоящее время процессу `systemd`.
+
+## Отображение зависимостей
+ Чтобы увидеть дерево зависимостей модуля, можно использовать команду 
+ `list-dependencies`
+ `systemctl list-dependencies sshd.service`
+ При этом отобразится иерархическая схема зависимостей, с которой необходимо работать, чтобы запустить интересуемый модуль. Зависимости в этом контексте включают те модули, которые либо требуются, либо желательны для модулей выше.
+ ```
+Output
+sshd.service
+├─system.slice
+└─basic.target
+  ├─microcode.service
+  ├─rhel-autorelabel-mark.service
+  ├─rhel-autorelabel.service
+  ├─rhel-configure.service
+  ├─rhel-dmesg.service
+  ├─rhel-loadmodules.service
+  ├─paths.target
+  ├─slices.target
+. . .
+```
