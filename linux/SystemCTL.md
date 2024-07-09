@@ -57,7 +57,8 @@ Jan 27 19:41:23 desktop systemd[1]: Started A high performance web server and a 
 1) Список всех юнитов `systemctl list-units` аналогично `systemctl`
 Результат будет выглядеть примерно так:
 ````
-OutputUNIT                                LOAD   ACTIVE SUB     DESCRIPTION
+Output
+UNIT                                      LOAD   ACTIVE SUB     DESCRIPTION
 atd.service                               loaded active running ATD daemon
 avahi-daemon.service                      loaded active running Avahi mDNS/DNS-SD Stack
 dbus.service                              loaded active running D-Bus System Message Bus
