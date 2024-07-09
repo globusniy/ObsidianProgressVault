@@ -52,7 +52,7 @@ Jan 27 19:41:23 desktop systemd[1]: Started A high performance web server and a 
 `systemctl is-failed имя_службы.service`
 Это вернет `active`, если он работает должным образом, или `failed`, если возникла ошибка. Если модуль был намеренно остановлен, может вернуться `unknown` или `inactive`.
 
-# Обзор состояния системы
+### Обзор состояния системы
 
 1) Список всех юнитов `systemctl list-units` аналогично `systemctl`
 Результат будет выглядеть примерно так:
@@ -159,4 +159,35 @@ ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
 SUB    = The low-level unit activation state, values depend on unit type.
 ```
 
-2) 
+### Список всех файлов модулей
+Чтобы увидеть _все_ доступные файлы модулей в путях `systemd`, включая те, что система `systemd` пыталась загрузить, можно использовать команду `list-unit-files`: 
+`systemctl list-unit-files` 
+
+Модули являются представлениями ресурсов, о которых знает `systemd`. Поскольку система `systemd` необязательно считывала все определения модуля в этом виде, она представляет информацию только о самих файлах. Вывод содержит два столбца: файл модуля и состояние.
+```
+$ systemctl list-unit-files
+UNIT FILE                             STATE   
+apache2.service                       enabled 
+cron.service                          enabled 
+dbus.service                          static  
+getty@.service                        enabled 
+networking.service                    enabled 
+rescue.service                        static  
+sshd.service                          enabled 
+syslog.service                        static  
+systemd-journald.service              static  
+...
+```
+Состояние будет, как правило, `enabled`, `disabled`, `static` или `masked`
+### enabled
+
+- **Описание**: Юнит включен. Это значит, что он автоматически запускается при загрузке системы или при старте соответствующего таргета
+### disabled
+
+- **Описание**: Юнит отключен. Это значит, что он не будет автоматически запускаться при загрузке системы или старте соответствующего таргета.
+### static
+
+- **Описание**: обозначает, что файл модуля не содержит раздел `install`, который используется для включения модуля. Эти модули как таковые не могут быть включены.
+### masked
+
+- **Описание**: Юнит замаскирован. Это значит, что он не может быть запущен ни вручную, ни автоматически.
