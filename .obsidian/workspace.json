@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71eb0832c3dfa4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1231223112323.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/SystemCTL.md",
+                "file": "1231223112323.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/SystemCTL.md",
+                "file": "1231223112323.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/SystemCTL.md"
+                "file": "1231223112323.md"
               }
             }
           }
@@ -160,12 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91cf2268afbf607a",
+  "active": "71eb0832c3dfa4ab",
   "lastOpenFiles": [
-    "промежуточные устройства в сети/Коммутатор (switch).md",
-    "linux/SystemCTL.md",
-    "linux/Уровни  загрузки.md",
+    "1231223112323.md",
     "Hard Skills.md",
+    "linux/SystemCTL.md",
+    "suys",
+    "промежуточные устройства в сети/Коммутатор (switch).md",
+    "linux/Уровни  загрузки.md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
     "approximately ended/DHCP.md",
     "промежуточные устройства в сети/Шлюз (Gateway).md",
