@@ -32,11 +32,15 @@
             }
           },
           {
-            "id": "e89b2798ee8f7994",
+            "id": "55c85933f3ecc494",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "123123123.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "123123123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "123123123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "123123123.md"
+              }
             }
           }
         ]
@@ -165,9 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e89b2798ee8f7994",
+  "active": "55c85933f3ecc494",
   "lastOpenFiles": [
     "Hard Skills.md",
+    "123123123.md",
     "1231223112323.md",
     "linux/SystemCTL.md",
     "suys",
