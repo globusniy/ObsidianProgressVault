@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "69a3fdf5933d7ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/chown chmod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba8682fff0655c87",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard Skills.md",
+                "file": "linux/chown chmod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard Skills.md",
+                "file": "linux/chown chmod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard Skills.md"
+                "file": "linux/chown chmod.md"
               }
             }
           }
@@ -156,13 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07acc3a29d29f20a",
+  "active": "69a3fdf5933d7ff7",
   "lastOpenFiles": [
+    "illustration/Pasted image 20240718111221.png",
+    "Hard Skills.md",
     "linux/SystemCTL.md",
+    "linux/chown chmod.md",
     "linux/Уровни  загрузки.md",
     "Содержание.md",
     "lox 123123.md",
-    "Hard Skills.md",
     "1231223112323.md",
     "suys",
     "промежуточные устройства в сети/Коммутатор (switch).md",
