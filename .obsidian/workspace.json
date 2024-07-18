@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07acc3a29d29f20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/SystemCTL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8682fff0655c87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,16 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c038829998193bb",
+  "active": "07acc3a29d29f20a",
   "lastOpenFiles": [
-    "Содержание.md",
+    "linux/Уровни  загрузки.md",
     "linux/SystemCTL.md",
+    "Содержание.md",
     "lox 123123.md",
     "Hard Skills.md",
     "1231223112323.md",
     "suys",
     "промежуточные устройства в сети/Коммутатор (switch).md",
-    "linux/Уровни  загрузки.md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
     "approximately ended/DHCP.md",
     "промежуточные устройства в сети/Шлюз (Gateway).md",
