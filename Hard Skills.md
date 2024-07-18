@@ -7,7 +7,7 @@ Linux
 1. Установка и настройка
 2. Как работает
 	- ~~Уровни загрузки~~
-	- Как работает systemctl
+	- ~~Как работает systemctl~~
 	- chmod chwon (Пользователи, как давать им доступ)
 	- Sticky bit
 	- File system (EXT4), indone, space
