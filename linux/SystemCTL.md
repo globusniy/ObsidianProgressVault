@@ -10,7 +10,7 @@
 - **Target** (.target): Группирует другие юниты для достижения определенного состояния.
 - **Mount** (.mount): Управляет точками монтирования файловых систем.
 - И другие.
-### Основные команды systemctl
+## Основные команды systemctl
 1) Запуск службы `sudo systemctl start имя_службы.service`
 
 2) Остановка службы `sudo systemctl stop имя_службы.service`
@@ -33,7 +33,8 @@
 - Выводит информацию о текущем состоянии службы 
 Например, при проверке статуса сервера Nginx вы можете видеть следующий вывод:
 ````
-Output● nginx.service - A high performance web server and a reverse proxy server
+Output
+● nginx.service - A high performance web server and a reverse proxy server
    Loaded: loaded (/usr/lib/systemd/system/nginx.service; enabled; vendor preset: disabled)
    Active: active (running) since Tue 2015-01-27 19:41:23 EST; 22h ago
  Main PID: 495 (nginx)
@@ -52,7 +53,7 @@ Jan 27 19:41:23 desktop systemd[1]: Started A high performance web server and a 
 `systemctl is-failed имя_службы.service`
 Это вернет `active`, если он работает должным образом, или `failed`, если возникла ошибка. Если модуль был намеренно остановлен, может вернуться `unknown` или `inactive`.
 
-### Обзор состояния системы
+## Обзор состояния системы
 
 1) Список всех юнитов `systemctl list-units` аналогично `systemctl`
 Результат будет выглядеть примерно так:
@@ -316,4 +317,9 @@ multi-user.target
 Можно запустить все модули, связанные с целью, и остановить все модули, не являющиеся частью дерева зависимостей. Команда, необходимая для этого, называется соответственно `isolate`. Она аналогична изменению уровня запуска в других системах инициализации.
 
 Например, если вы работаете в графической среде с активным `graphical.target`, можно закрыть графическую систему и перевести систему в состояние многопользовательской командной строки путем изоляции `multi-user.target`. Поскольку `graphical.target` зависит от `multi-user.target`, а не наоборот, все графические модули будут остановлены.
-`systemctl list-dependencies multi-user.target`
+
+Возможно, вы захотите посмотреть на зависимости цели, которую вы изолируете, перед выполнением этой процедуры, чтобы убедиться, что не остановлены важные службы [[#Отображение зависимостей]]
+
+Если вы удовлетворены модулями, которые будут сохранены в активном состоянии, можно изолировать цель, введя: 
+`sudo systemctl isolate multi-user.target`
+

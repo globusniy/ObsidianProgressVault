@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c038829998193bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/SystemCTL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "07acc3a29d29f20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "linux/SystemCTL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
