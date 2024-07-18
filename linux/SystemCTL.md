@@ -285,3 +285,4 @@ Failed to start nginx.service: Unit nginx.service is masked.
 
 После удаления файла или каталога необходимо перезагрузить процесс `systemd`, чтобы он больше не пытался ссылаться на эти файлы и не возвращался к использованию системных копий.
 `sudo systemctl daemon-reload`
+

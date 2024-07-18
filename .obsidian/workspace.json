@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91cf2268afbf607a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/SystemCTL.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9c038829998193bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard Skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55c85933f3ecc494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lox 123123.md",
+                "file": "linux/SystemCTL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lox 123123.md",
+                "file": "linux/SystemCTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lox 123123.md",
+                "file": "linux/SystemCTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lox 123123.md"
+                "file": "linux/SystemCTL.md"
               }
             }
           }
@@ -173,12 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55c85933f3ecc494",
+  "active": "9c038829998193bb",
   "lastOpenFiles": [
-    "Hard Skills.md",
-    "lox 123123.md",
-    "1231223112323.md",
+    "Содержание.md",
     "linux/SystemCTL.md",
+    "lox 123123.md",
+    "Hard Skills.md",
+    "1231223112323.md",
     "suys",
     "промежуточные устройства в сети/Коммутатор (switch).md",
     "linux/Уровни  загрузки.md",
