@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "69a3fdf5933d7ff7",
+            "id": "670d7b64b6ebecb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/chown chmod.md",
+                "file": "linux/SETUID, SETGID и Sticky bit.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard Skills.md",
+                "file": "linux/SETUID, SETGID и Sticky bit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard Skills.md",
+                "file": "linux/SETUID, SETGID и Sticky bit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard Skills.md"
+                "file": "linux/SETUID, SETGID и Sticky bit.md"
               }
             }
           }
@@ -168,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07acc3a29d29f20a",
+  "active": "670d7b64b6ebecb4",
   "lastOpenFiles": [
+    "linux/SETUID, SETGID и Sticky bit.md",
+    "Hard Skills.md",
+    "Untitled",
     "linux/chown chmod.md",
     "illustration/Pasted image 20240719110130.png",
     "illustration/Pasted image 20240719104722.png",
@@ -179,7 +183,6 @@
     "illustration/Pasted image 20240718114632.png",
     "illustration/Pasted image 20240718112944.png",
     "illustration/Pasted image 20240718111221.png",
-    "Hard Skills.md",
     "linux/SystemCTL.md",
     "linux/Уровни  загрузки.md",
     "Содержание.md",
