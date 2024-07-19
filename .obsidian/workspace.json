@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "linux/chown chmod.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -169,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68ea3ab5340b59e9",
+  "active": "69a3fdf5933d7ff7",
   "lastOpenFiles": [
+    "illustration/Pasted image 20240718115958.png",
     "illustration/Pasted image 20240718114848.png",
     "illustration/Pasted image 20240718114810.png",
     "illustration/Pasted image 20240718114632.png",
