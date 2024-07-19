@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/chown chmod.md",
+                "file": "Hard Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/chown chmod.md",
+                "file": "Hard Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/chown chmod.md"
+                "file": "Hard Skills.md"
               }
             }
           }
@@ -169,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69a3fdf5933d7ff7",
+  "active": "07acc3a29d29f20a",
   "lastOpenFiles": [
+    "linux/chown chmod.md",
+    "illustration/Pasted image 20240719110130.png",
     "illustration/Pasted image 20240719104722.png",
     "illustration/Pasted image 20240718115958.png",
     "illustration/Pasted image 20240718114848.png",
@@ -180,7 +181,6 @@
     "illustration/Pasted image 20240718111221.png",
     "Hard Skills.md",
     "linux/SystemCTL.md",
-    "linux/chown chmod.md",
     "linux/Уровни  загрузки.md",
     "Содержание.md",
     "lox 123123.md",
