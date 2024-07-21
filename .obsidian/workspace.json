@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "be960ae16d46390c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
             "id": "ba8682fff0655c87",
             "type": "leaf",
             "state": {
@@ -50,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be960ae16d46390c",
+  "active": "670d7b64b6ebecb4",
   "lastOpenFiles": [
-    "linux/chown chmod.md",
-    "linux/SETUID, SETGID и Sticky bit.md",
     "Hard Skills.md",
+    "linux/SETUID, SETGID и Sticky bit.md",
+    "linux/chown chmod.md",
     "Untitled",
     "illustration/Pasted image 20240719110130.png",
     "illustration/Pasted image 20240719104722.png",
