@@ -9,7 +9,7 @@ Linux
 	- ~~Уровни загрузки~~
 	- ~~Как работает systemctl~~
 	- ~~chmod chwon (Пользователи, как давать им доступ)~~
-	- Sticky bit
+	- Sticky bit setuid setgid
 	- File system (EXT4), indone, space
 	- ptables разобраться с цепочками
 	- iptables разобраться с masqurad (DST SRC Nat)
