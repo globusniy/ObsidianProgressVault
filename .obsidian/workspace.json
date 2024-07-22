@@ -27,6 +27,7 @@
               "state": {
                 "file": "linux/chown chmod.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -52,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/SETUID, SETGID и Sticky bit.md",
+                "file": "linux/chown chmod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/SETUID, SETGID и Sticky bit.md",
+                "file": "linux/chown chmod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/SETUID, SETGID и Sticky bit.md"
+                "file": "linux/chown chmod.md"
               }
             }
           }
@@ -181,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "670d7b64b6ebecb4",
+  "active": "92fbb18723e02528",
   "lastOpenFiles": [
+    "linux/SETUID, SETGID и Sticky bit.md",
     "linux/chown chmod.md",
     "Hard Skills.md",
-    "linux/SETUID, SETGID и Sticky bit.md",
     "linux/SystemCTL.md",
     "Untitled",
     "illustration/Pasted image 20240719110130.png",
