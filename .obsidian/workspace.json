@@ -33,18 +33,6 @@
             }
           },
           {
-            "id": "670d7b64b6ebecb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/SETUID, SETGID и Sticky bit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba8682fff0655c87",
             "type": "leaf",
             "state": {
