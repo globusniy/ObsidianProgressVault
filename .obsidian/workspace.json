@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximately ended/DHCP.md",
+                "file": "Hard Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximately ended/DHCP.md",
+                "file": "Hard Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximately ended/DHCP.md"
+                "file": "Hard Skills.md"
               }
             }
           }
@@ -174,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba8682fff0655c87",
+  "active": "07acc3a29d29f20a",
   "lastOpenFiles": [
+    "approximately ended/DHCP.md",
     "linux/chown chmod.md",
     "linux/SETUID, SETGID и Sticky bit.md",
     "Hard Skills.md",
@@ -196,7 +196,6 @@
     "suys",
     "промежуточные устройства в сети/Коммутатор (switch).md",
     "approximately ended/Маска подсети net mask, subnet mask.md",
-    "approximately ended/DHCP.md",
     "промежуточные устройства в сети/Шлюз (Gateway).md",
     "промежуточные устройства в сети/Хаб концентратор(hub).md",
     "промежуточные устройства в сети/Маршрутизатор (Router).md"
